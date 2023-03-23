@@ -7,16 +7,19 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
 
-
 ## Example
 Example 1:
 
-Input: s = "3[a]2[bc]"
-Output: "aaabcbc"
+Input: x = 123
+Output: 321
 Example 2:
 
-Input: s = "3[a2[c]]"
-Output: "accaccacc"
+Input: x = -123
+Output: -321
+Example 3:
+
+Input: x = 120
+Output: 21
 
 ## My code result
 ![Code Result](https://github.com/nogibjj/lyk-Week8-miniRustproj/blob/main/Week8mini.png)
@@ -25,8 +28,8 @@ Output: "accaccacc"
 
 
 ## Usage
--- check --input "String"
-output will be true or false
+-- check --input INT
+output will be the reverse of the input
 
 ## References
 
