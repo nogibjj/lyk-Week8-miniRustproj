@@ -33,4 +33,4 @@ output will be the reverse of the input
 
 ## References
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* [rust-cli-template](https://github.com/nogibjj/week9-lyk-mini-Rust/blob/main/week9.png)
